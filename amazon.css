@@ -1,0 +1,67 @@
+.head1{
+    display:flex;
+    justify-content:space-between;
+    background-color:rgb(24, 38, 95);
+}
+.input{
+    width:600px;
+    height:30px;
+
+}
+.search{
+    position:relative;
+    top:15px;
+}
+.language{
+    position:relative;
+    top:15px;
+}
+.head2{
+    background-color:rgb(23, 59, 136);
+    height:35px;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+a{
+    text-decoration:none;
+    font-style:oblique;
+    font-size:larger;
+    color:white;
+}
+.main{
+    background-image:url('/home/ss.png');
+    height:100%;
+    width:100%;
+    background-position: center;
+    background-size:cover;
+    position:absolute;
+}
+.offer{
+    display:flex;
+    justify-content:space-evenly;
+}
+.home{
+    height:400px;
+    width:350px;
+    background-color:white;
+}
+.style{
+    height:400px;
+    width:350px;
+    background-color:white;
+}
+.mobile{
+    height:400px;
+    width:350px;
+    background-color:white;
+}
+.headphone{
+    height:400px;
+    width:350px;
+    background-color:white;
+}
+.display{
+    display:flex;
+    justify-content:space-evenly;
+}
